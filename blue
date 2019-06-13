@@ -1,0 +1,112 @@
+<!doctype html> 
+<html>
+
+ <head> <title>Manchester United WebPage</title></head>
+
+ <header>
+   
+       <h2> Manchester United News Webpage</h2>
+        <nav>
+         <ul> 
+            <li><a href="#">Socials</a></li>
+            <li><a href="#">About</a></li
+            <li><a href="#">Description</a></li>
+          </ul>
+      </nav>
+ </header>
+         
+           <style type="text/css">
+                         body {
+                         background: black; 
+                         font-family: arial;
+                         margin: 0;
+                        }
+                         h1, a,  {
+                          color: #FEFEFE
+                         }
+                         img {
+                          padding: 15px 420px;
+                         }
+                         h2 {
+                          color: red;
+                         }
+                         
+                         h1 {
+                          padding: 15px 475px
+                         }              
+                         i {
+                          padding: 15px 100px
+                         } 
+                         m {
+                          padding: 15px 100px
+                         }
+                         a {
+                          color: blue;
+                         }
+                         head{
+                          background: blue;
+                         }
+                        header{
+                          color: white;
+                          padding: 5px 15px 0px 15px
+                        }
+                        
+                        header h2{
+                          margin: 0;
+                          display: inline;
+                        }
+                        nav ul{
+                          margin: 0;
+                          display: inline;
+                        }
+                                   
+                         nav, ul , li{ 
+                         background: black;
+                         color: white;
+                         display: inline-block;
+                         list-style-type: none;
+                         padding: 5px 15px;
+                        } 
+                        nav, ul, li, a{
+                          color: white;
+                        }
+                        body{
+                          background: black;
+
+                         
+                        
+                           
+                        
+                                 
+              </style>
+                        }
+    </head>
+
+     
+    <body>
+
+           <a href="https://twitter.com/TheRealJabreel">twitter.com </a> <br>
+           <img src="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Manchester_United.svg">
+
+           <ul>
+    <h1> Manchester United News </h1> 
+    <h2> <strong>Transfer rumours </strong> </h2> 
+
+             <li> -Bruno Fernandes to Man United. </li> <br>
+             <li> -Aaron Wan-Bissaka to Man United for around 50 million pounds. </li> <br>
+             <li> -Adrien Rabiot to Man United on a free. </li> <br>
+             <li> -Matthijs de Ligt to Man United. </li> <br>
+
+    <h2> <strong> Confirmed transfers </strong> </h2>  <br>
+             <li>  -Dillon Hoogewerf from Ajax. </li> <br>
+             <li>  -Daniel James from Swansea City. Deal agreed in principle.  </li> <br>
+    <h2> <strong> Latest News. (12/06/19) </strong> </h2> 
+             <li>  -Manchester United are in talks with Aaron Wan-Bissaka.The deal is not done yet but they'll have a meeting with Aaron Wan-Bissaka this week to understand if they can sign him. Talk ongoing. (@FabrizioRomano <a href="https://twitter.com/FabrizioRomano">twitter.com) </a> </li> <br>
+             <li>  -De Ligt seems to be going to PSG. Mino Raiola arrived in Paris to finalize the deal. (@NicoloSchira <a href="https://twitter.com/NicoSchira">twitter.com) </a> </li> <br>
+             <li>  -Daniel James is now a Manchester United player. The transfer fee was for around 18 million pounds. He has signed 5 year contract. </li> <br>
+             <i> <img src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzA2XFxcLzEyMTQyNjQyXFxcL0RKLnBuZ1wiLFwid2lkdGhcIjozMDcsXCJoZWlnaHRcIjoyNTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImYzYmYxNzMzNmEyZWEyMTI4MjZjZjY2ODNlOWFjZmYxZTVhYmQxZjcifQ==/daniel-james-completes-move-to-manchester-united.png"> </i>
+
+                  
+             
+
+        </body>              
